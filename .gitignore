@@ -18,3 +18,4 @@
 
 # Ignore Setting files
 sftp-config.json
+*.DS_Store
